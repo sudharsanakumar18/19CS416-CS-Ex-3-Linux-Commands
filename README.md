@@ -79,8 +79,8 @@ The `cp` command is used to copy files or directories.
 ```bash
 cp <source_file> <destination_file>
 ```
-
 **Output:**
+![Screenshot from 2025-03-11 21-35-54](https://github.com/user-attachments/assets/124aed10-fc05-4637-bfb4-ba713e3f9030)
 
 ### 8. `gedit` Command
 
@@ -90,9 +90,8 @@ cp <source_file> <destination_file>
 ```bash
 gedit <file_name>
 ```
-
 **Output:**
-
+![Screenshot from 2025-03-11 21-49-06](https://github.com/user-attachments/assets/b6ec2111-2eb3-4613-860e-a0147a2fd31f)
 ### 9. `su` Command
 
 The `su` command provides administrative access to another user.
@@ -103,7 +102,7 @@ su <username>
 ```
 
 **Output:**
-
+![Screenshot from 2025-03-11 21-52-57](https://github.com/user-attachments/assets/2dab84e7-7ae0-4f51-bf46-e32a4d0a6a52)
 ### 10. `mv` Command
 
 The `mv` command is used to move a file or directory from one location to another.
@@ -114,7 +113,7 @@ mv <file_name> <directory_path>
 ```
 
 **Output:**
-
+![Screenshot from 2025-03-11 22-04-45](https://github.com/user-attachments/assets/c37e9e11-5615-4702-b081-447217695894)
 ### 11. `rename` Command
 
 The `rename` command is used to rename files.
@@ -125,7 +124,7 @@ rename 's/old-name/new-name/' <files>
 ```
 
 **Output:**
-
+![Screenshot from 2025-03-11 22-05-52](https://github.com/user-attachments/assets/e3d3b731-5b21-44c8-8ffb-e5c40bafd4bc)
 ### 12. `head` Command
 
 The `head` command displays the first 10 lines of a file.
@@ -134,9 +133,8 @@ The `head` command displays the first 10 lines of a file.
 ```bash
 head <file_name>
 ```
-
 **Output:**
-
+![Screenshot from 2025-03-11 22-16-42](https://github.com/user-attachments/assets/19f2cc01-2bbf-4773-89cb-072fd16828e2)
 ### 13. `tail` Command
 
 The `tail` command displays the last 10 lines of a file.
@@ -145,9 +143,8 @@ The `tail` command displays the last 10 lines of a file.
 ```bash
 tail <file_name>
 ```
-
 **Output:**
-
+![Screenshot from 2025-03-11 22-28-58](https://github.com/user-attachments/assets/735d463e-d56d-4047-b84b-63f3b7e4629d)
 ### 14. `id` Command
 
 The `id` command displays the user ID (UID) and group ID (GID).
@@ -156,9 +153,8 @@ The `id` command displays the user ID (UID) and group ID (GID).
 ```bash
 id
 ```
-
 **Output:**
-
+![Screenshot from 2025-03-12 13-50-39](https://github.com/user-attachments/assets/8bdd8a8f-d70e-4bbc-95f8-db26b1271772)
 ### 15. `grep` Command
 
 The `grep` command is used to search for a pattern within files.
@@ -167,9 +163,8 @@ The `grep` command is used to search for a pattern within files.
 ```bash
 command | grep <search_word>
 ```
-
 **Output:**
-
+![Screenshot from 2025-03-12 13-59-44](https://github.com/user-attachments/assets/6e6c1534-72bb-44c2-882e-54fb50f4dba2)
 ### 16. `tr` Command
 
 The `tr` command is used to translate or delete characters.
@@ -178,9 +173,8 @@ The `tr` command is used to translate or delete characters.
 ```bash
 command | tr <old> <new>
 ```
-
 **Output:**
-
+![Screenshot from 2025-03-12 14-03-13](https://github.com/user-attachments/assets/0be5c779-3c36-484c-b9d6-c03928d535a7)
 ### 17. `chmod` Command
 
 The `chmod` command is used to change the access mode (permissions) of a file.
@@ -189,9 +183,8 @@ The `chmod` command is used to change the access mode (permissions) of a file.
 ```bash
 chmod <options> <permissions> <file_name>
 ```
-
 **Output:**
-
+![Screenshot from 2025-03-12 14-06-18](https://github.com/user-attachments/assets/b496cf9a-d1b0-4026-9d95-88be00f3c835)
 ### 18. `tar` Command
 
 The `tar` command is used to create or extract archive files.
@@ -200,9 +193,8 @@ The `tar` command is used to create or extract archive files.
 ```bash
 tar [options] [archive-file] [files_to_archive]
 ```
-
 **Output:**
-
+![Screenshot from 2025-03-12 14-08-45](https://github.com/user-attachments/assets/cd5fa012-5f83-4539-8b36-2da6f1cdfba7)
 ### 19. `chown` Command
 
 The `chown` command is used to change the ownership of a file.
@@ -211,9 +203,8 @@ The `chown` command is used to change the ownership of a file.
 ```bash
 chown <owner_name> <file_name>
 ```
-
 **Output:**
-
+![image](https://github.com/user-attachments/assets/8814f5ae-23ee-411f-8383-0ac2a175b874)
 ### 20. `make` Command
 
 The `make` command is used to build and maintain groups of programs.
@@ -224,7 +215,7 @@ make [-f makefile] [options] [targets]
 ```
 
 **Output:**
-
+![Screenshot from 2025-03-12 14-36-29](https://github.com/user-attachments/assets/ce4cfd2d-7f5a-421f-be60-af885b574fa6)
 ### 21. `ifconfig` Command
 
 The `ifconfig` command is used to configure network interfaces.
@@ -235,6 +226,7 @@ ifconfig [options] [interface]
 ```
 
 **Output:**
+![Screenshot from 2025-03-12 14-31-45](https://github.com/user-attachments/assets/4ddf3532-2c94-48ea-866d-ec8c013b942e)
 
 ### 22. `chmod 777` Command
 
@@ -245,8 +237,8 @@ The `chmod 777` command gives read, write, and execute permissions to the owner,
 chmod 777 <file_name>
 chmod -R 777 /path/to/file/or/folder
 ```
-
 **Output:**
+![Screenshot from 2025-03-12 14-29-10](https://github.com/user-attachments/assets/e24619be-b7c4-4605-96f3-33394061d0ec)
 
 ### 23. `host` Command
 
@@ -256,9 +248,8 @@ The `host` command is used to display the IP address for a given domain name.
 ```bash
 host <domain_name> or <ip_address>
 ```
-
 **Output:**
-
+![Screenshot from 2025-03-12 14-13-46](https://github.com/user-attachments/assets/5e639104-5660-4d9c-9862-bf82c039727f)
 ### 24. `gzip` Command
 
 The `gzip` command is used to compress files, replacing the original file with a compressed one with a `.gz` extension.
@@ -267,9 +258,8 @@ The `gzip` command is used to compress files, replacing the original file with a
 ```bash
 gzip <file1> <file2> <file3>...
 ```
-
 **Output:**
-
+![Screenshot from 2025-03-12 14-14-29](https://github.com/user-attachments/assets/1e9562c0-7e52-4675-a158-ed6f8fed1166)
 ### 25. `sort` Command
 
 The `sort` command is used to sort the contents of a file alphabetically.
@@ -278,9 +268,8 @@ The `sort` command is used to sort the contents of a file alphabetically.
 ```bash
 sort <file_name>
 ```
-
 **Output:**
-
+![Screenshot from 2025-03-12 14-16-28](https://github.com/user-attachments/assets/abf9b671-77b6-4400-b053-1de460b713b9)
 ### 26. `cal` Command
 
 The `cal` command displays the current month's calendar with the current date highlighted.
@@ -291,6 +280,7 @@ cal
 ```
 
 **Output:**
+![Screenshot from 2025-03-12 14-17-15](https://github.com/user-attachments/assets/5b26c9c0-e82c-4fab-aede-831b2c7016c7)
 
 ### 27. `clear` Command
 
@@ -302,7 +292,7 @@ clear
 ```
 
 **Output:**
-
+![Screenshot from 2025-03-12 14-17-47](https://github.com/user-attachments/assets/51d6674b-8d46-4ab5-a05e-612a441d08d8)
 ### 28. `mail` Command
 
 The `mail` command is used to send emails from the command line.
@@ -313,7 +303,7 @@ mail
 ```
 
 **Output:**
-
+![image](https://github.com/user-attachments/assets/97d31451-b572-4400-96a9-e7f3e4fe8fa1)
 ### 29. `df` Command
 
 The `df` command displays the disk space usage of file systems.
@@ -324,6 +314,7 @@ df
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/6b69d9a7-5810-4c0d-add8-31e0ed490320)
 
 ### 30. `find` Command
 
@@ -335,5 +326,7 @@ find <directory> -name <file_name>
 ```
 
 **Output:**
+![Screenshot from 2025-03-12 14-27-31](https://github.com/user-attachments/assets/76490a0c-f4c2-40a2-996f-87b3d52bc6db)
 
 ## Result
+Thus, the execution of various Linux commands is executed successfully using Ubuntu OS.
