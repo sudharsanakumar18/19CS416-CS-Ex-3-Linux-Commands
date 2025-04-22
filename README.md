@@ -14,8 +14,9 @@ The `ls` command is used to display a list of contents in a directory.
 ```bash
 ls
 ```
-
 **Output:**
+![Screenshot from 2025-03-11 20-25-11](https://github.com/user-attachments/assets/55aac873-2a3e-4b66-b57b-c2e740fe2628)
+
 
 ### 2. `pwd` Command
 
@@ -25,9 +26,8 @@ The `pwd` command displays the location of the current working directory.
 ```bash
 pwd
 ```
-
 **Output:**
-
+![Screenshot from 2025-03-11 20-26-25](https://github.com/user-attachments/assets/fe2482fb-ea23-4e2d-8d34-abfcb2b2f8b4)
 ### 3. `mkdir` Command
 
 The `mkdir` command is used to create a new directory.
@@ -38,7 +38,7 @@ mkdir <directory_name>
 ```
 
 **Output:**
-
+![Screenshot from 2025-03-11 20-31-57](https://github.com/user-attachments/assets/7742bba7-0054-4cc1-8a65-c36065f8b03e)
 ### 4. `rmdir` Command
 
 The `rmdir` command is used to delete a directory.
@@ -49,6 +49,7 @@ rmdir <directory_name>
 ```
 
 **Output:**
+![Screenshot from 2025-03-11 20-32-48](https://github.com/user-attachments/assets/80e32a11-9a47-410f-932a-13585c106611)
 
 ### 5. `cd` Command
 
@@ -58,9 +59,8 @@ The `cd` command is used to change the current directory.
 ```bash
 cd <directory_name>
 ```
-
 **Output:**
-
+![Screenshot from 2025-03-11 20-35-56](https://github.com/user-attachments/assets/53a8c7bd-c19b-4d19-bb50-316b4c5c35b3)
 ### 6. `cat` Command
 
 The `cat` command is used to create, display, and concatenate files.
@@ -69,9 +69,8 @@ The `cat` command is used to create, display, and concatenate files.
 ```bash
 cat [OPTION]... [FILE]...
 ```
-
 **Output:**
-
+![Screenshot from 2025-03-11 20-57-48](https://github.com/user-attachments/assets/0b7d6a58-45d3-4536-88c1-662058ef68b4)
 ### 7. `cp` Command
 
 The `cp` command is used to copy files or directories.
